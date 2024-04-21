@@ -54,3 +54,6 @@ button:nth-child(2) {
     background: white;
     color: #e94d58;
 }
+<audio controls autoplay>
+    <source src="노래/노래.mp3" type="audio/mp3">
+</audio>
