@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "쪼아! 고마워 &#128522; 나중에 영상통화하면서 놀자~~ &#128518;"; 
+  question.innerHTML = "쪼아! 고마워 &#128522;"; 
   gif.src =
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcybmF5NGZhdWk1enFqMXB5aDVmd3I3Mng5azdjNDgyYWdzc2pyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpU91npgmwIvkrMVDK/giphy.gif";
 });
